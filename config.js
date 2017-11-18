@@ -1,8 +1,8 @@
 /*** USE THIS FILE TO SET OPTIONS ***/
 
 GexfJS.setParams({
-    graphFile : "untitled.gexf", 
-        /*
+    graphFile : "miserables.gexf", 
+        /*untitled
             The GEXF file to show ! -- can be overriden by adding
             a hash to the document location, e.g. index.html#celegans.gexf
             GEXF files can now be replaced by pre-processed JSON files (use gexf2json.py)
